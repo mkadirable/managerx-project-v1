@@ -1,2 +1,2 @@
 # h4kuna-project-v1
-ManagerX is toys as bot for h4kuna
+managerx is project toys as bot of h4kuna.
