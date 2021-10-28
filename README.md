@@ -1,2 +1,2 @@
 # h4kuna-project-v1
-toys
+ManagerX is toys as bot for h4kuna
